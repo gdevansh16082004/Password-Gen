@@ -1,3 +1,6 @@
+*{
+ background-color:black; 
+}
 .App {
   text-align: center;
 }
@@ -35,4 +38,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+label {
+  display: inline-block; 
+  width: 100px; 
 }
